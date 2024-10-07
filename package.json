@@ -1,0 +1,17 @@
+{
+  "name": "filehanler",
+  "version": "1.0.0",
+  "description": "handle the file for the end users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shivam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expree": "^2.1.0",
+    "express-validator": "^7.2.0"
+  }
+}
